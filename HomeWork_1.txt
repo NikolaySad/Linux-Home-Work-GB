@@ -34,7 +34,7 @@ db@gb-linux:~$
 
 
 
-PS C:\Users\Дмитрий> ssh -p 8022 db@localhost
+PS C:\Users\Николай> ssh -p 8022 db@localhost
 db@localhost's password:
 Permission denied, please try again.
 db@localhost's password:
